@@ -1,0 +1,28 @@
+_repo: Ge-eft-Acht-Schetsen-uit-het-Indische-soldatenleven_67013
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Prell, August
+    aliases:
+    - Prell, Conrad August Heinrich
+    - Prell, A.
+    birthdate: 1856
+    deathdate: 1926
+    gutenberg_agent_id: '54075'
+    url: http://www.gutenberg.org/2009/agents/54075
+description: ''
+gutenberg_issued: '2021-12-25'
+identifiers:
+  gutenberg: '67013'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'U'
+- !lcc 'PT'
+- !lcsh 'Dutch -- Indonesia -- Biography'
+- !lcsh 'Soldiers -- Netherlands -- Biography'
+- GITenberg
+title: Ge-eft Acht! Schetsen uit het Indische soldatenleven
+url: http://www.gutenberg.org/ebooks/67013

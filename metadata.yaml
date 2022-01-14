@@ -1,5 +1,8 @@
 _repo: Ge-eft-Acht-Schetsen-uit-het-Indische-soldatenleven_67013
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67013-h/images/new-cover.jpg
 creator:
   author:
     agent_name: Prell, August
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '54075'
     url: http://www.gutenberg.org/2009/agents/54075
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67013#Ge-eft-Acht-Schetsen-uit-het-Indische-soldatenleven
 gutenberg_issued: '2021-12-25'
 identifiers:
   gutenberg: '67013'
